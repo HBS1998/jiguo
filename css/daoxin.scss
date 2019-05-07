@@ -1,0 +1,130 @@
+$mar:0 auto;
+$wid:1200px;
+.b {
+    width: $wid;
+    height: 175px;
+    margin: $mar;
+    p {
+        font-size: 40px;
+        width: 166px;
+        height: 48px;
+        color: #243d42;
+        margin: $mar;
+        padding-top: 48px;
+    }
+}
+
+.b-a {
+    width: 400px;
+    height: 40px;
+    margin: $mar;
+    margin-top: 43px;
+    ul{
+        display: flex;
+        justify-content: space-around;
+    }
+    li {
+        float: left;
+        font-size: 22px;
+        width: 170px;
+        height: 40px;
+        text-align: center;
+    }
+}
+
+.b-a-li1 {
+    color: #F7583B;
+    border-bottom: 2px solid #F7583B;
+}
+
+.b-a-li2 {
+    a {
+        color: #BCBAC7;
+    }
+}
+
+.dao {
+    width: 100%;
+    height: 1220px;
+    background-color: #f7f7f7;
+    margin-top: 5px;
+}
+
+.dao-m {
+    width: 1200px;
+    height: 1220px;
+    margin: $mar;
+    padding-top: 20px;
+}
+
+.dao-c {
+    width: $wid;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.d-c-1 {
+    width: 230px;
+    height: 230px;
+    border-radius: 7px;
+    border: solid 2px #e8e8e8;
+    p {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    ul {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+        width: 220px;
+        margin-left: 5px;
+    }
+    li {
+        float: left;
+        color: #a1abb5;
+        font-size: 13px;
+    }
+    a{
+      font-size: 15px;
+      color: black;  
+    }
+}
+
+.d-c-1-img1 {
+    width: 230px;
+    height: 130px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.d-c-2 {
+    width: 220px;
+    height: 10px;
+    border-radius: 5px;
+    border: solid 2px #e8e8e8;
+    margin-left: 5px;
+    margin-top: -5px;
+    border-top-color: #FFFFFF;
+}
+
+.d-c-3 {
+    width: 210px;
+    height: 5px;
+    border-radius: 5px;
+    border: solid 2px #e8e8e8;
+    margin-left: 10px;
+    border-top-color: #FFFFFF;
+}
+
+.k-b {
+    width: 125px;
+    height: 22px;
+    margin: 0 auto;
+    margin-top: 55px;
+    li {
+        float: left;
+        color: #F7583B;
+        margin-left: 5px;
+    }
+}

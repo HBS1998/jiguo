@@ -1,0 +1,100 @@
+.a {
+  width: 1200px;
+  height: 1070px;
+  margin: 0 auto;
+  margin-top: 54px; }
+
+.a-m {
+  width: 1200px;
+  height: 1020px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; }
+
+.al {
+  width: 324px;
+  height: 320px;
+  background-color: #f3f3f3;
+  border-radius: 10px; }
+
+.al-1 {
+  width: 276px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 30px; }
+  .al-1 p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #505050; }
+  .al-1 hr {
+    margin-top: 5px; }
+
+.al-2 {
+  width: 276px;
+  height: 130px;
+  margin: 0 auto; }
+  .al-2 p {
+    font-weight: 600;
+    color: #505050; }
+  .al-2 ul {
+    margin-left: 10px;
+    margin-top: 5px; }
+
+.ar {
+  width: 840px;
+  height: 1020px;
+  background-color: #f3f3f3;
+  border-radius: 10px; }
+
+.ar-1 {
+  width: 766px;
+  height: 62px;
+  margin: 0 auto;
+  margin-top: 30px; }
+  .ar-1 p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #505050; }
+  .ar-1 hr {
+    margin-top: 5px; }
+
+.ar-2 {
+  width: 766px;
+  height: 48px;
+  margin: 0 auto; }
+  .ar-2 p {
+    font-weight: 550;
+    color: #505050; }
+
+.ar-3 {
+  width: 766px;
+  height: 276px;
+  margin: 0 auto; }
+  .ar-3 li {
+    font-size: 16px;
+    color: #534e4b;
+    margin-top: 10px; }
+
+.ar-4 {
+  width: 766px;
+  height: 277px;
+  margin: 0 auto; }
+  .ar-4 li {
+    font-size: 16px;
+    color: #534e4b;
+    margin-top: 10px; }
+
+.ar-5 {
+  width: 766px;
+  height: 188px;
+  margin: 0 auto; }
+  .ar-5 p {
+    font-weight: 600;
+    color: #505050;
+    font-size: 20px; }
+  .ar-5 ul li {
+    font-size: 15px;
+    color: #534e4b;
+    margin-top: 10px; }
+
+/*# sourceMappingURL=help.css.map */

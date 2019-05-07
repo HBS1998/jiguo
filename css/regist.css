@@ -1,0 +1,80 @@
+.ce {
+  width: 100%;
+  height: 850px;
+  background-color: #F7F7F7; }
+
+.ce-ce {
+  width: 1200px;
+  height: 850px;
+  margin: 0 auto;
+  padding-top: 26px; }
+
+.ce-m {
+  width: 1200px;
+  height: 790px;
+  border: solid #B5B9BC 1px;
+  border-radius: 10px; }
+
+.ce-1 {
+  width: 1200px;
+  height: 122px; }
+  .ce-1 div {
+    width: 5px;
+    height: 25px;
+    background-color: red;
+    float: left;
+    margin-left: 5px; }
+  .ce-1 p {
+    font-size: 20px;
+    margin-left: 23px;
+    margin-top: 44px; }
+
+.ce-2 {
+  width: 480px;
+  height: 80px;
+  margin: 0 auto; }
+  .ce-2 input {
+    width: 470px;
+    height: 55px;
+    border-radius: 10px;
+    border: solid #BCBAC7 1px;
+    background-color: #F7F7F7;
+    padding-left: 10px; }
+  .ce-2 button {
+    width: 480px;
+    height: 55px;
+    background-color: #F7583B;
+    color: #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+    border: solid #F7583B 1px;
+    font-size: 20px; }
+
+.ce-3 {
+  width: 480px;
+  height: 80px;
+  margin: 0 auto; }
+  .ce-3 li {
+    float: left; }
+  .ce-3 input {
+    width: 320px;
+    height: 55px;
+    border-radius: 10px;
+    border: solid #BCBAC7 1px;
+    background-color: #F7F7F7;
+    padding-left: 10px; }
+  .ce-3 img {
+    width: 130px;
+    height: 55px;
+    margin-left: 15px; }
+  .ce-3 button {
+    width: 130px;
+    height: 55px;
+    margin-left: 15px;
+    border: solid #BCBAC7 1px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #BCBAC7; }
+
+/*# sourceMappingURL=regist.css.map */
